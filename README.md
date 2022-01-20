@@ -1,8 +1,7 @@
 # spotifyml
 
-![Capture d’écran du 2022-01-20 12-49-35](https://user-images.githubusercontent.com/25727549/150333455-17ed20f6-956c-4e71-aba5-f04e7c873763.png)
-![image](https://user-images.githubusercontent.com/25727549/150334666-7f11bfcd-9665-4e4b-aaa0-61e728ed5f2e.png)
-
+![image](https://user-images.githubusercontent.com/25727549/150337784-b327c5b8-f9e1-4502-af85-032ff020e30d.png)
+![image](https://user-images.githubusercontent.com/25727549/150337874-c738bc4e-1e1f-4ca8-977e-690cb10c2bdf.png)
 
 ## Getting Started
 
