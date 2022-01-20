@@ -22,10 +22,10 @@ tensorboard --logdir=logs
 
 ## Roadmap
 
-- [ ] with a long training acc should be ok, but test dataset has low acc. maybe it's overtraining...
+- [x] with a long training acc should be ok, but test dataset has low acc. maybe it's overtraining...
 
 ## Things to try
 
-- [ ] change the model (layers, categorical to binary?)
-- [ ] drop some col on the dataset that are useless
-- [ ] check normalization
+- [x] change the model (layers, categorical to binary?)
+- [x] drop some col on the dataset that are useless
+- [x] check normalization
