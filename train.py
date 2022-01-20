@@ -1,16 +1,10 @@
 import datetime
 
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense
 from tensorflow.keras.callbacks import TensorBoard
 
 from cleanup_data import X_train, X_test, y_train, y_test
+from model import model
 
-model = Sequential([
-    Dense(256, activation='relu', input_shape=(15,)),
-    Dense(777, activation='relu'),
-    Dense(22, activation='softmax'),
-])
 
 model.compile(
     optimizer='adam',
