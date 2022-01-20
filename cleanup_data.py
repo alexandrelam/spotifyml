@@ -14,8 +14,10 @@ y_data = df.iloc[:, -1:]
 le = preprocessing.LabelEncoder()
 enc = preprocessing.OneHotEncoder()
 
+# convert boolean to 1 and 0
 X_data['explicit'] = le.fit_transform(X_data['explicit'])
 
+# one hot encode genre
 y_data = y_data.apply(le.fit_transform)
 enc.fit(y_data)
 y_data = enc.transform(y_data).toarray()
@@ -24,7 +26,7 @@ X_train, X_test, y_train, y_test = train_test_split(
     X_data, y_data, test_size=0.2)
 
 
+# normalize x values
 scaler = preprocessing.StandardScaler()
-
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.fit_transform(X_test)
