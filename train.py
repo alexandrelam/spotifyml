@@ -25,8 +25,3 @@ model.fit(
 )
 
 model.save_weights(f'models/{datetime.datetime.now()}-model.h5')
-
-model.evaluate(
-    X_test,
-    y_test
-)
