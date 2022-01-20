@@ -49,6 +49,12 @@ python test.py
 
 ## Media
 
+![image](https://user-images.githubusercontent.com/25727549/150351115-159e7884-6637-41f8-8416-73dd69dc8576.png)
+
+![image](https://user-images.githubusercontent.com/25727549/150351268-9e431d18-f281-47f6-b01e-b6dec1fb659a.png)
+
+![image](https://user-images.githubusercontent.com/25727549/150351367-9bb9b308-5201-49e5-b9f0-8da06ad5d915.png)
+
 ![image](https://user-images.githubusercontent.com/25727549/150337784-b327c5b8-f9e1-4502-af85-032ff020e30d.png)
 
 ```
