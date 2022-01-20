@@ -25,7 +25,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alexandrelam/spotifyml">
+  <a href="https://user-images.githubusercontent.com/25727549/150354737-5e17f6de-f146-4852-909b-8be0536ecf53.png">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
