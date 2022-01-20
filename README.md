@@ -29,8 +29,7 @@
     <img src="https://user-images.githubusercontent.com/25727549/150354737-5e17f6de-f146-4852-909b-8be0536ecf53.png" alt="Logo" width=100" height="100">
   </a>
 
-  <h3 align="center">Neural Network for Spotify genre</h3>
-
+  <h3 align="center">Neural Network for Spotify genre <br /> (97% accuracy)</h3>
   <p align="center">
     I built a neural network that guesses the genre of a music based on data <br/> scrapped on Spotify!
     <br />
