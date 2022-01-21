@@ -2,7 +2,7 @@ import datetime
 
 from tensorflow.keras.callbacks import TensorBoard
 
-from cleanup_data import X_train, X_test, y_train, y_test
+from cleanup_data import X_train, y_train
 from model import model
 
 
