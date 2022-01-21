@@ -25,12 +25,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/alexandrelam/spotifyml">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://user-images.githubusercontent.com/25727549/150354737-5e17f6de-f146-4852-909b-8be0536ecf53.png">
+    <img src="https://user-images.githubusercontent.com/25727549/150354737-5e17f6de-f146-4852-909b-8be0536ecf53.png" alt="Logo" width=100" height="100">
   </a>
 
-  <h3 align="center">Neural Network for Spotify genre</h3>
-
+  <h3 align="center">Neural Network for Spotify genre <br /> (97% accuracy)</h3>
   <p align="center">
     I built a neural network that guesses the genre of a music based on data <br/> scrapped on Spotify!
     <br />
@@ -169,7 +168,7 @@ good/total: 28/30 - 93%
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/alexandrelam/spotifyml.svg?style=for-the-badge
 [contributors-url]: https://github.com/alexandrelam/spotifyml/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/alexandrelam/spotifyml.svg?style=for-the-badge
 [forks-url]: https://github.com/alexandrelam/spotifyml/network/members
